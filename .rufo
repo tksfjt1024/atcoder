@@ -1,0 +1,5 @@
+parens_in_def :yes
+align_case_when true
+align_chained_calls true
+trailing_commas true
+quote_style :double
